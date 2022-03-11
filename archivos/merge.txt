@@ -1,3 +1,6 @@
 Manuel Alejandro Gallego Jiménez, tengo 20 años y aspiro a que al terminar la materia tenga un muy buen conocimiento
  y control sobre la programación orientada a objetos y ser capaz de aplicarla en una situación de la 
 vida real.
+
+Lo que pasó es que no subió la carpeta porque esta estaba vacía, eso eso es lo que creo que pasó. Pero al crear un archivo dentro de esta, la carpeta sí apareció.
+
