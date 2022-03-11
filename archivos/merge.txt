@@ -1,0 +1,1 @@
+Lo que pasó es que no subió la carpeta porque esta estaba vacía, eso eso es lo que creo que pasó. Pero al crear un archivo dentro de esta, la carpeta sí apareció.
